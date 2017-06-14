@@ -1,0 +1,2 @@
+# Data-science-game
+Deezer is a music streaming app which has its own music recommendation system based on collaborative filtering algorithm on it s user . The main goal of this project is Devise a solution to predict whether a user listens to the first track recommended by the deezer app.So I Devised a Neural Network based solution which learns users listening history of songs based on the features provided and predicts whether that users listens to the recommended song by deezer api or not.
