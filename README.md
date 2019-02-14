@@ -13,3 +13,12 @@ Songs : (media_id)
 Artists : (Artist_id)
 
 Then We used Emeddings and other features as inputs to XGBoost to predict whether a user listens to the first track recommended by the deezer app.
+
+Used scrapy to scrape some extra info like songs lyrics etc through deezer API which is stored in JSON Files.
+Models :
+1) XGBoost
+2) Neural Networks
+3) LSTM
+4) Stacked models
+
+
