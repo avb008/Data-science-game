@@ -1,5 +1,5 @@
 # Data-science-game
-It is an International Data Science competition for Students world wide where top 20 teams in prelims qualify to the finals in Paris every year.
+It is an International Data Science competition for Students world wide where top 20 teams in prelims qualify to the finals in Paris.
 
 Prelims Objective : 
 Deezer is a music streaming app which has its own music recommendation system based on collaborative filtering algorithm on its users . The main goal is to Devise a solution which can predict whether a user listens to the first track recommended by the deezer app.
